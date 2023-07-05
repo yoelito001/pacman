@@ -13,3 +13,18 @@ C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\refint\my
 C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.pdb
 C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.genruntimeconfig.cache
 C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\ref\myfirstapp.dll
+C:\teach\pacman\bin\Debug\net7.0\myfirstapp.exe
+C:\teach\pacman\bin\Debug\net7.0\myfirstapp.deps.json
+C:\teach\pacman\bin\Debug\net7.0\myfirstapp.runtimeconfig.json
+C:\teach\pacman\bin\Debug\net7.0\myfirstapp.dll
+C:\teach\pacman\bin\Debug\net7.0\myfirstapp.pdb
+C:\teach\pacman\obj\Debug\net7.0\myfirstapp.csproj.AssemblyReference.cache
+C:\teach\pacman\obj\Debug\net7.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\teach\pacman\obj\Debug\net7.0\myfirstapp.AssemblyInfoInputs.cache
+C:\teach\pacman\obj\Debug\net7.0\myfirstapp.AssemblyInfo.cs
+C:\teach\pacman\obj\Debug\net7.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\teach\pacman\obj\Debug\net7.0\myfirstapp.dll
+C:\teach\pacman\obj\Debug\net7.0\refint\myfirstapp.dll
+C:\teach\pacman\obj\Debug\net7.0\myfirstapp.pdb
+C:\teach\pacman\obj\Debug\net7.0\myfirstapp.genruntimeconfig.cache
+C:\teach\pacman\obj\Debug\net7.0\ref\myfirstapp.dll

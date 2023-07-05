@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoeli\\Desktop\\0.0.0.1\\Trabajo Pac-Man orison\\myfirstapp.csproj": {}
+    "C:\\teach\\pacman\\myfirstapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoeli\\Desktop\\0.0.0.1\\Trabajo Pac-Man orison\\myfirstapp.csproj": {
+    "C:\\teach\\pacman\\myfirstapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoeli\\Desktop\\0.0.0.1\\Trabajo Pac-Man orison\\myfirstapp.csproj",
+        "projectUniqueName": "C:\\teach\\pacman\\myfirstapp.csproj",
         "projectName": "myfirstapp",
-        "projectPath": "C:\\Users\\yoeli\\Desktop\\0.0.0.1\\Trabajo Pac-Man orison\\myfirstapp.csproj",
-        "packagesPath": "C:\\Users\\yoeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoeli\\Desktop\\0.0.0.1\\Trabajo Pac-Man orison\\obj\\",
+        "projectPath": "C:\\teach\\pacman\\myfirstapp.csproj",
+        "packagesPath": "C:\\Users\\Juand\\.nuget\\packages\\",
+        "outputPath": "C:\\teach\\pacman\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yoeli\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Juand\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }
