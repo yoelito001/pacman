@@ -1,0 +1,15 @@
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\bin\Debug\net7.0\myfirstapp.exe
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\bin\Debug\net7.0\myfirstapp.deps.json
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\bin\Debug\net7.0\myfirstapp.runtimeconfig.json
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\bin\Debug\net7.0\myfirstapp.dll
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\bin\Debug\net7.0\myfirstapp.pdb
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.csproj.AssemblyReference.cache
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.AssemblyInfo.cs
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.dll
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\refint\myfirstapp.dll
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.pdb
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\myfirstapp.genruntimeconfig.cache
+C:\Users\yoeli\Desktop\0.0.0.1\Trabajo Pac-Man orison\obj\Debug\net7.0\ref\myfirstapp.dll
